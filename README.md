@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @gatitorres
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning english
-- 📫 How to reach me: DISCORD, gatitorres
-- 😄 Pronouns: Where
+A
 
 <!---
 gatitorres/gatitorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
